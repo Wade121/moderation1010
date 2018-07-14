@@ -22,7 +22,7 @@ verbose_out = True
 #===================================================================================================================
 #GLOBAL CONFIG
 
-bot_token = ''
+bot_token = 'NDY3NTA3NjA0OTQwMjU5MzMw.Dirsbg.GL_TZHKfsSW6NegFzUSeYrGuTuE'
 bot_cmd_char = '/'
 bot_playing_tag = ''
 utc_time_modifier = 0
